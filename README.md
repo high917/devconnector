@@ -1,3 +1,4 @@
+This project is tested with BrowserStack.
 # DevConnector
 
 > Social network for developers
